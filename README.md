@@ -64,6 +64,9 @@
   - [Hexo Editor](https://github.com/zhuzhuyule/HexoEditor) - Electron based editor for Hexo
   - [Hexo Client](https://github.com/gaoyoubo/hexo-client) - Cross-Platform Hexo Client
   - [Hexo Action](https://github.com/heowc/action-hexo) - GitHub Action for Hexo
+  - [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing) - Plugin for Sublime Text 3
+  - [Svtter/hexoblog.vim](https://github.com/Svtter/hexoblog.vim) plugin for vim
+  - [kuanyui/hexo.el](https://github.com/kuanyui/hexo.el) plugin for Emacs
   
 ## Showcases
 
